@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá 👋, Eu me chamo Jhordan!</h1>
-<h3 align="center">Meu nome é Jhordan Nykerson e sou estudante de Cibersegurança e Engenharia de Software atualmente estou no 3° semestre. Estou constantemente buscando aprimorar minhas habilidades técnicas e conhecimentos para me destacar no mercado de tecnologia.</h3>
+<h3 align="center">Meu nome é Jhordan Nykerson e sou estudante de Cibersegurança e Engenharia de Software, atualmente estou no 3° semestre. Estou constantemente buscando aprimorar minhas habilidades técnicas e conhecimentos para me destacar no mercado de tecnologia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhordannyk&label=Profile%20views&color=0e75b6&style=flat" alt="jhordannyk" /> </p>
 
